@@ -1,0 +1,17 @@
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\obj\Debug\net6.0\Aws.Services.csproj.AssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\obj\Debug\net6.0\Aws.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\obj\Debug\net6.0\Aws.Services.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\obj\Debug\net6.0\Aws.Services.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\obj\Debug\net6.0\Aws.Services.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\bin\Debug\net6.0\Aws.Services.deps.json
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\bin\Debug\net6.0\Aws.Services.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\bin\Debug\net6.0\Aws.Services.pdb
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\bin\Debug\net6.0\Aws.Domain.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\bin\Debug\net6.0\Aws.Infra.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\bin\Debug\net6.0\Aws.Domain.pdb
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\bin\Debug\net6.0\Aws.Infra.pdb
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\obj\Debug\net6.0\Aws.Services.csproj.CopyComplete
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\obj\Debug\net6.0\Aws.Services.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\obj\Debug\net6.0\refint\Aws.Services.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\obj\Debug\net6.0\Aws.Services.pdb
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Aws.Services\obj\Debug\net6.0\ref\Aws.Services.dll

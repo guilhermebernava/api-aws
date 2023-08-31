@@ -1,0 +1,11 @@
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Domain\bin\Debug\net6.0\Aws.Domain.deps.json
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Domain\bin\Debug\net6.0\Aws.Domain.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Domain\bin\Debug\net6.0\Aws.Domain.pdb
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Domain\obj\Debug\net6.0\Aws.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Domain\obj\Debug\net6.0\Aws.Domain.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Domain\obj\Debug\net6.0\Aws.Domain.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Domain\obj\Debug\net6.0\Aws.Domain.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Domain\obj\Debug\net6.0\Aws.Domain.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Domain\obj\Debug\net6.0\refint\Aws.Domain.dll
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Domain\obj\Debug\net6.0\Aws.Domain.pdb
+C:\Users\guilh\OneDrive\Documentos\Projects\ApiAws\Domain\obj\Debug\net6.0\ref\Aws.Domain.dll
